@@ -1,4 +1,5 @@
 ### ToDo
+### please edit that readme as you want and write what i suggest below.
 [] Please write steps to setup the project and needed packages. ex node version
    - node version
    - emulator ABI and type/screen
